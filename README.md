@@ -15,7 +15,11 @@ I'm Fuad, a biotechnologist and self-taught programmer from Bangladesh. I have d
 
 * Language proficiency: English (IELTS overall score: 7.0)
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fuad-Taufiqul-Hakim)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fuad-Taufiqul-Hakim)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fuad-Taufiqul-Hakim&show_icons=true) 
 
 
 
